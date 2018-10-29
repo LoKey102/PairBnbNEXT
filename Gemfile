@@ -63,3 +63,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Clearance Gem
 gem "clearance"
+gem "rspec-rails"
+
+# Figaro GEM
+gem "figaro"
